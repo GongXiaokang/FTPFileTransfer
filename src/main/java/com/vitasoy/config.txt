@@ -1,0 +1,5 @@
+POSKA_Eastern_District;https://vstore-mgmt.vitasoy-chn.com//300POSKA/POSKA_Eastern_District/;/Users/gongthomas/Desktop/Eastern_District/
+POSKA_Western_District;https://vstore-mgmt.vitasoy-chn.com//300POSKA/POSKA_Western_District/;/Users/gongthomas/Desktop/POSKA_Western_District/
+POSKA_South_District;https://vstore-mgmt.vitasoy-chn.com//300POSKA/POSKA_South_District/;/Users/gongthomas/Desktop/POSKA_South_District/
+POSKA_North_District;https://vstore-mgmt.vitasoy-chn.com//300POSKA/POSKA_North_District/;/Users/gongthomas/Desktop/POSKA_North_District/
+POSKA_Central_District;https://vstore-mgmt.vitasoy-chn.com//300POSKA/POSKA_Central_District/;/Users/gongthomas/Desktop/POSKA_Central_District/
